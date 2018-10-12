@@ -1,5 +1,5 @@
 # Capstone_Final_Docs
-This repository contains all the updated files for Capstone project submission.  
+This repository contains all the updated files for capstone project submission.  
 Here is a list of the files in the repository 
 1. Rcode file in R script formate 
    cust_Capstone_Rcode.R
